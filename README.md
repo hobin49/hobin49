@@ -1,6 +1,6 @@
 ## 🤷‍♂️Who am I 
 
-안녕하세요. 백엔드 개발자를 꿈꾸는 이호빈입니다. 저는 어려운 문제를 좋아하고 고민하는 것을 좋아합니다. 끊임없이 성장하고 싶은 욕구가 많습니다. 독서와 운동을 좋아합니다.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 
