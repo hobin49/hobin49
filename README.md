@@ -1,24 +1,36 @@
-## 🤷‍♂️Who am I 
+ <div align = center>
+      
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hello👋&fontSize=90&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+</div>
+ 
+ 
+<div align = center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhobin49%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 
 
 
+<div align = "center"><br>방문해 주셔서 감사합니다 🐶 </div>
+<div align = "center">제 이름은 이호빈이고 백엔드를 공부하고 있어요!</div>
+<div align = "center"> 🔥무엇이든 배우려는 자세로 학습에 임하고 있습니다🔥 </div>
 
 
-## 👇현재 진행중인 프로젝트 
-
+<div align = "center"><br><h3> ⚒ Tech Stack ⚒ </div></h3>
+<div align = "center"><br> Techs that I've used at least once
  
 
-```py
-프로젝트는 곧 To BE continue
+<div align = "center"> <br> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp </div>
 
-if 내가 만약 열심히 공부하지 않으면?:
- 프로젝트를 못한다.
-else:
- 성공적으로 프로젝트를 마무리 할 수 있다.
-```
+
+<div align = center><br><br><br>
+ 
+![hobin49's github stats](https://github-readme-stats.vercel.app/api?username=hobin49&show_icons=true) 
+
+</div> 
 
 
 
