@@ -25,7 +25,7 @@
 
 <div align = "center"> <br> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp </div>
 
-<dic align = "center><br><br><br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobin505)](https://solved.ac/hobin505/)
+<dic align = "center"><br><br><br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobin505)](https://solved.ac/hobin505/)
 </div>
 
 <div align = center><br><br><br>
