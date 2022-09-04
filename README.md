@@ -24,9 +24,7 @@
 
 <div align = "center"> <br> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/SQLite-003B57? style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp</div> <img src="https://img.shields.io/badge/html-E34F26? style=flat-square&logo=html5&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/css-1572B6? style=flat-square&logo=css3&logoColor=white"/></a>&nbsp</div>
 
-
-<div align = "center"><br><br><br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobin505)](https://solved.ac/hobin505/)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hobin505)](https://solved.ac/hobin505)
 
 
 <div align = center><br><br><br>
