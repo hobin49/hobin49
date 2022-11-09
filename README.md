@@ -37,9 +37,7 @@
 <div align = center><br>
  
 ![hobin49's github stats](https://github-readme-stats.vercel.app/api?username=hobin49&show_icons=true) 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobin49&layout=compact&theme=tokyonight)
 </div> 
-<div>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobin49&layout=compact&theme=tokyonight)
-</div>
+
 
