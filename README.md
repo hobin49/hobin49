@@ -39,6 +39,7 @@
 ![hobin49's github stats](https://github-readme-stats.vercel.app/api?username=hobin49&show_icons=true) 
 
 </div> 
-
-
+<div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobin49)](https://github.com/hobin49/)
+</div>
 
