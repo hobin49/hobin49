@@ -30,7 +30,7 @@
 <div align = center><br>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hobin505)](https://solved.ac/hobin505)
+
 
 </div>
  
