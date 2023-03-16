@@ -14,7 +14,7 @@
 
 
 
-<div align = "center"><br>제 이름은 이호빈이고 백엔드를 공부하고 있어요!🐶</div>
+<div align = "center"><br>프론트엔드를 공부하고 있어요!🐶</div>
 <div align = "center"> 🔥무엇이든 배우겠습니다!🔥 </div>
 
 
