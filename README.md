@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E? style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Django-092E20? style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/vue.js-4FC08D? style=flat-square&logo=Vue.js&logoColor=green"/></a>&nbsp
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
 </div>
 
 <div align = center><br>
