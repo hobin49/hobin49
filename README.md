@@ -19,12 +19,10 @@
 
 
 <div align = "center"><br><h3> ⚒ Tech Stack ⚒ </div></h3>
-<div align = "center"><br> Techs that I've used at least once
  
 
-<div align = "center"> <br> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=yellow"/></a>&nbsp <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/SQLite-003B57? style=flat-square&logo=SQLite&logoColor=blue"/></a>&nbsp</div> <img src="https://img.shields.io/badge/html-E34F26? style=flat-square&logo=html5&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/css-1572B6? style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/bootstrap-7952B3? style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp
+<div align = "center"> <br> <img src="https://img.shields.io/badge/html-E34F26? style=flat-square&logo=html5&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/css-1572B6? style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E? style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/Django-092E20? style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/vue.js-4FC08D? style=flat-square&logo=Vue.js&logoColor=green"/></a>&nbsp
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
 </div>
@@ -38,7 +36,6 @@
  
 <div align = center><br>
  
-![hobin49's github stats](https://github-readme-stats.vercel.app/api?username=hobin49&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobin49&layout=compact&theme=tokyonight)
 </div> 
 
