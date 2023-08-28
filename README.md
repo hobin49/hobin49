@@ -6,17 +6,13 @@
  
 <div align = center>
 
-
+<h2>What I cannot create, I do not understand</h2>
 </div>
 
 
 
 
-<div align = "center"><br>프론트엔드를 공부하고 있어요!🐶</div>
-<div align = "center"> 🔥무엇이든 배우겠습니다!🔥 </div>
-
-
-<div align = "center"><br><h3> ⚒ Tech Stack ⚒ </div></h3>
+<div align = "center"><br><h3> ⚒ Tech Stack ⚒ </div>
  
 
 <div align = "center"> <br> <img src="https://img.shields.io/badge/HTML-E34F26? style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/CSS-1572B6? style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
