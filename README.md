@@ -34,7 +34,6 @@
  
 <div align = center><br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobin49&layout=compact&theme=tokyonight)
 </div> 
 
 
