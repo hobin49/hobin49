@@ -32,7 +32,7 @@
  </ul>
 </div>
 
-[🌱PORTFOLIO](https://www.notion.so/hobin49/25607a6310d34e73b901fadccce0ac8c)<br>
-[✏️Tistory](https://hobin49.tistory.com/)
+[🌱PORTFOLIO](https://www.notion.so/hobin49/86019006c5044449a2cf93e236b693a7)<br>
+[✏️TISTORY](https://hobin49.tistory.com/)
 
 
