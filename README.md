@@ -27,13 +27,13 @@
 <br>
 <div>
  <ul>
-  <li>풀스택 취업캠프 1기 2022.07.04 ~ 2022.12.16</li>
-  <li>리액트 10주캠프 2023.06.05 ~ 2023.08.11</li>
   <li>오픈소스 컨트리뷰션 아카데미 2023.07.08 ~ 2023.08.26</li>
+  <li>웅진&유데미 리액트 10주캠프 2023.06.05 ~ 2023.08.11</li>
+  <li>풀스택 취업캠프 1기 2022.07.04 ~ 2022.12.16</li>
  </ul>
 </div>
 
-<div>
- [✏️Tistory](https://hobin49.tistory.com/)
-</div>
+[🌱PORTFOLIO](https://www.notion.so/hobin49/25607a6310d34e73b901fadccce0ac8c)<br>
+[✏️Tistory](https://hobin49.tistory.com/)
+
 
