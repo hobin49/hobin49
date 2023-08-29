@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=000000"/>
 <img src="https://img.shields.io/badge/React.js-skyblue?style=flat&logo=react&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=Next.js&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=000000"/>
 </div>
 
